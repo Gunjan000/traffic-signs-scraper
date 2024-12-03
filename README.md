@@ -47,10 +47,9 @@
     beautifulsoup4
     requests
     pandas
-```
+    ```
 
 ### Install dependencies using:
-
     ```bash
     pip install -r requirements.txt
     ```
