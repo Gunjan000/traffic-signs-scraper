@@ -33,21 +33,21 @@
     ```
 2. The script will generate a CSV file named traffic_signs_with_actual_image_links.csv containing the scraped data.
 ## File Structure
-    ```
+    
     traffic-signs-scraper/
     │
     ├── traffic_signs_scraper.py        # Main script for scraping traffic signs
     ├── requirements.txt                # Python dependencies
     └── traffic_signs_with_actual_image_links.csv  # Output data file
-    ```
+    
 ## Requirements
-    ```
+    
     Python 3.7 or later
     Required Python packages:
     beautifulsoup4
     requests
     pandas
-    ```
+    
 
 ### Install dependencies using:
     pip install -r requirements.txt
