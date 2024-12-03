@@ -50,9 +50,7 @@
     ```
 
 ### Install dependencies using:
-    ```
     pip install -r requirements.txt
-    ```
 ## Example Output
 
 | Title           | Description                                      | ImageLink                                                                                                     | SVG_name     |
